@@ -10,12 +10,11 @@
 
 ## Previous Projects and Work
 
-**Duplex Comp by Viator DSP**
+**Bedroom Comp by Viator DSP**
 
-**Link:** https://viatordsp.gumroad.com/l/zxdeus <br>
-**Overview:** A serial compressor and limiter for Mac and PC. <br> 
-**Challenges:** Notable challenges were creating a license unlock check utilizing Gumroads API which keeps track of user emails and generates license codes.
-Features: Save/recall state, preset browser with the ability to share presets with other users, oversampling, tooltips for each control, license unlocking.
+**Link:** [Bedroom Comp](https://github.com/landonviator/viator-bedroom-comp) <br>
+**Overview:** A compressor and limiter for Mac and PC. <br> 
+**Challenges:** I aimed to create a unique and impactful knee parameter for Bedroom Comp. I experimented with various trigonometric functions until I achieved a distinctive and appealing knee curve..
 
 **Space by Cymatics**
 
