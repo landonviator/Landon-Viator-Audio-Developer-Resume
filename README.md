@@ -38,7 +38,7 @@ Features: All basic plugin features.
 
 **ADPTR Audio**
 
-**Overview:** Research and development to engineer innovative distortion algorithms for an unreleased multi-band distortion plugin. <br>
+**Overview:** Research and development to engineer innovative distortion algorithms. <br>
 **Challenges:** Notable challenges were researching all available literature on audio distortion effects, modeling other plugin responses in Matlab, and crafting algorithms to achieve similar shape and quality.
 
 **The Audio Programmer**
