@@ -22,7 +22,6 @@ Features: Save/recall state, preset browser with the ability to share presets wi
 **Link:** https://cymatics.fm/products/space <br>
 **Overview:** A reverb for Mac and PC. <br> 
 **Challenges:** Notable challenges were creating a DSP framework for this plugin and future Cymatics plugins.
-Features: All basic plugin features plus included IR’s.
 
 **Radiant Q by Viator DSP**
 
