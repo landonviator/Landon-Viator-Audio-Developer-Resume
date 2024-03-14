@@ -23,12 +23,11 @@ Features: Save/recall state, preset browser with the ability to share presets wi
 **Overview:** A reverb for Mac and PC. <br> 
 **Challenges:** Notable challenges were creating a DSP framework for this plugin and future Cymatics plugins.
 
-**Radiant Q by Viator DSP**
+**Rust by Viator DSP**
 
-**Link:** https://viatordsp.gumroad.com/l/uxpzms <br>
-**Overview:** A Pultec-inspired EQ plugin for Mac and PC. <br> 
-**Challenges:** Notable challenges were modeling the Pultec low-end trick with no hardware model. Making the EQ curves unique and not a 1 to 1 copy in operation.
-Features: All basic plugin features.
+**Link:** [Rust](https://github.com/landonviator/viator-rust) <br>
+**Overview:** A lofi tape noise and distortion plugin for Mac and PC. <br> 
+**Challenges:** Notable challenges to develop a noise generator plugin inspired by the subtle crackle and dust of vinyl. Unlike conventional vinyl noise plugins that rely on pre-recorded audio or live capture methods, I aimed to synthesize these sounds purely through DSP techniques.
 
 
 **Behringer Synth Suite Bundle**
